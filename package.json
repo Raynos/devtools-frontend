@@ -9,6 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint -c front_end/.eslintrc.js --ignore-path front_end/.eslintignore front_end"
   },
+  "main": "dist/heapsnapshot.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ChromeDevTools/devtools-frontend.git"
