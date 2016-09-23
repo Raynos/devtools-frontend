@@ -1,5 +1,5 @@
 {
-  "name": "chrome-devtools-frontend",
+  "name": "chrome-devtools-heapsnapshot",
   "description": "Chrome DevTools UI",
   "scripts": {
     "start": "node scripts/start_chrome_and_server.js",

@@ -1,3 +1,19 @@
+# HEAPSNAPSHOT FORK ...
+
+This is a fork of devtools to be able to access the `HeapSnapshot` class
+and do stuff from javascript.
+
+To build:
+
+```
+cd prebuild
+bash build.sh
+```
+
+Be wary, this package mutates globals because... chrome devtools :(
+
+Published to npm for the greater good.
+
 # Chrome DevTools frontend
 
 The client-side of the Chrome DevTools, including all JS & CSS to run the DevTools webapp.
