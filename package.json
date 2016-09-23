@@ -1,6 +1,6 @@
 {
   "name": "chrome-devtools-heapsnapshot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Chrome DevTools UI",
   "scripts": {
     "start": "node scripts/start_chrome_and_server.js",
